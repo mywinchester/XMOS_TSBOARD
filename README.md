@@ -13,8 +13,8 @@ An test board for XMOS + DSD1794 audio DAC hardware solution.
     > **ALARM: DO NOT CONNECT J2 _pin 1_ AND _pin 3_ AT THE SAME TIME!**
 
 ## Connect me
-E-mail: winchester.mygod@hotmail.com
-Twitter: @MygodMak
+E-mail: ```winchester.mygod@hotmail.com```
+Twitter: ```@MygodMak```
 I will check inbox in my free time.
 
 ## END
